@@ -1,0 +1,33 @@
+.autocomplete{
+    width: 50vw;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.autocomplete input{
+    width: 100%;
+    padding: 1rem;
+    border-radius: 2rem;
+    border: 1px solid #CDCDCD;
+    font-size: medium;
+}
+
+.autocomplete input:focus{
+    outline: none;
+}
+
+.states-div{
+    width: 50vw;
+    margin-left: 1rem;
+    max-height: 30vh;
+    overflow-y: scroll;
+}
+
+.states-div ul li{
+    border: 1px solid #c2c2c2;
+    background-color: #cccbcb;
+    list-style: none;
+    margin: 0.5rem 0rem;
+    padding: 0.5rem 0rem;
+    border-radius: 1rem;
+}
