@@ -1,0 +1,8 @@
+.corousel-div{
+    display: flex;
+    justify-content: space-around;
+}
+
+.corousel-div .material-icons{
+    cursor: pointer;
+}

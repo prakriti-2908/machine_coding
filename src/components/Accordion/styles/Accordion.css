@@ -1,0 +1,11 @@
+.accordion,.cards-div{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    justify-content: center !important;
+    align-items: center;
+}
+.cards-div{
+    max-width: 40vw;
+    min-width: 40vw;
+}
